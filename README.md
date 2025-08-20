@@ -8,8 +8,8 @@
 <div align="center">
   <h3>
   Hi there! I'm Muntial
-  <img src="https://media.tenor.com/Bve0fgKwVnYAAAAi/alverda-verdansa.gif" alt="Gif de saludo" height="8%" width="8%">
   </h3>
+  <span><img src="https://media.tenor.com/ozyn__Me0O8AAAAi/pc.gif" alt="Gif de saludo" height="10%" width="10%"></span>
 </div>
 
 <div align="center">
