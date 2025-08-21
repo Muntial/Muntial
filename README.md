@@ -67,13 +67,23 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 </details>
 </div>
 
-
 ---
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaizzer-z&left_color=indigo&right_color=slategray"  />
 </div>
 
-<div align="center">
+<br>
+ 
+## Contacto y apoyo:
+
+[![Email](https://img.shields.io/badge/muntialdrop@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:muntialdrop@gmail.com)
+  
+<br>
+<div align="center"> 
   
  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
+
+
+
