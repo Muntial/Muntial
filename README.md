@@ -59,19 +59,8 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 </div>
 
 
----
 <div align="center">
-<details align="center">
-  <summary>🎵 Music</summary>
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t5ldnl22dk6cziqtedriwbgera)
-</details>
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaizzer-z&left_color=indigo&right_color=slategray"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Muntial&left_color=indigo&right_color=slategray"  />
 </div>
 
 <br>
