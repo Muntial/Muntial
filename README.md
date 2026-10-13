@@ -52,6 +52,10 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
   <p align="center">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
     <img src="https://img.shields.io/badge/n8n-FF6133?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge">
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"> 
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge">
+    <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Framework Badge">
+    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core Badge">
   </p>
 </div>
 
