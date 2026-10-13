@@ -42,6 +42,7 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
     <img src="https://img.shields.io/badge/Astro-0C1324?style=for-the-badge&logo=astro&logoColor=F6392F" alt="Astro Badge">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"> 
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
   </p>
 </div>
